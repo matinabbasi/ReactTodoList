@@ -1,14 +1,15 @@
 .api-call {
   background-color: #90e0ef;
-  width: 600px;
+  width: 300px;
+  border-radius: 10px;
 }
 .post-header {
   background-color: #90e0ef;
 }
 .image {
-  width: 300px;
+  width: 200px;
+  margin-bottom: 10px;
 }
-
-p{
-  
+p {
+  font-size: 8px;
 }
