@@ -1,0 +1,50 @@
+.task-input {
+  height: 200px;
+  background-color: #caf0f8;
+  margin-bottom: 30px;
+}
+.task-input-edit {
+  height: 100px;
+  background-color: #90e0ef;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.column-title {
+  background-color: #90e0ef;
+  border-radius: 10px;
+  height: 50px;
+}
+
+.task-form {
+  height: 50px !important;
+}
+
+.add-button {
+  margin-left: 10px;
+}
+.edit-button {
+  margin-left: 10px;
+}
+
+.Task {
+  background-color: #90e0ef;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.todo-list-color {
+  background-color: blue;
+}
+.in-progress-color {
+  background-color: #f4a261;
+}
+.done-color {
+  background-color: #6a994e;
+}
+
+.color {
+  background-color: blue;
+}
